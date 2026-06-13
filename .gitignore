@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Large data files
+*.npz
+*.mat
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
